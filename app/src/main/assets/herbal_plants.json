@@ -1,0 +1,1388 @@
+{"names":[
+   {
+      "English": "Aconite, Wolf's Bane",
+      "Hindi": "Athis, Athicha",
+      "Tamil": "Athividayam",
+      "Malayalam": "Athivitayam"
+   },
+   {
+      "English": "Adjeran, Indian Rock-foil",
+      "Hindi": "Patharchoor",
+      "Tamil": "Karpooravalli",
+      "Malayalam": "Panikoorkka"
+   },
+   {
+      "English": "Agasta, Hummingbird Tree",
+      "Hindi": "Hathiya, Hataya",
+      "Tamil": "Agathi",
+      "Malayalam": "Akathi, Agati"
+   },
+   {
+      "English": "Alexandrian Laurel",
+      "Hindi": "Sarpan, Sultana Chasa",
+      "Tamil": "Punnai Virai",
+      "Malayalam": "Punna"
+   },
+   {
+      "English": "Almond",
+      "Hindi": "Badam",
+      "Tamil": "Vadumai",
+      "Malayalam": "Badam"
+   },
+   {
+      "English": "Asafoetida Plant, Devil's Dung",
+      "Hindi": "Hing",
+      "Tamil": "Perunkayam, Inguva",
+      "Malayalam": "Kaayam"
+   },
+   {
+      "English": "Ash Coloured Fleabane",
+      "Hindi": "Dantholpala, Sahadevi, Sadori",
+      "Tamil": "Puvankurunthal",
+      "Malayalam": "Poovankurunthal"
+   },
+   {
+      "English": "Ashoka Tree",
+      "Hindi": "Ashok",
+      "Tamil": "Asokam",
+      "Malayalam": "Ashokam"
+   },
+   {
+      "English": "Asparagus",
+      "Hindi": "Sathavari, Shakakul",
+      "Tamil": "Kilavari",
+      "Malayalam": "Shathavari"
+   },
+   {
+      "English": "Babchi",
+      "Hindi": "Babchi",
+      "Tamil": "Karppokarisi",
+      "Malayalam": "Kaarkokil"
+   },
+   {
+      "English": "Babul",
+      "Hindi": "Babula, Babul",
+      "Tamil": "Karuvel, Karuvai",
+      "Malayalam": "Karivelam, Karuvelam"
+   },
+   {
+      "English": "Balloon Vine",
+      "Hindi": "Khanafatha",
+      "Tamil": "Modakitan, Mooda Kottan",
+      "Malayalam": "Uzhinja"
+   },
+   {
+      "English": "Bamboo",
+      "Hindi": "Bans",
+      "Tamil": "Mangal, Mungil, Periya Mungil",
+      "Malayalam": "Mula"
+   },
+   {
+      "English": "Barley",
+      "Hindi": "Jav",
+      "Tamil": "Barleyaris",
+      "Malayalam": "Barley"
+   },
+   {
+      "English": "Bay-berry Tree",
+      "Hindi": "Keephal",
+      "Tamil": "Marudam",
+      "Malayalam": "Katphalam"
+   },
+   {
+      "English": "Bel Tree",
+      "Hindi": "Bilva",
+      "Tamil": "Vilva",
+      "Malayalam": "Koovalam"
+   },
+   {
+      "English": "Belleric Myrobalan",
+      "Hindi": "Baheda, Bahera",
+      "Tamil": "Thanti",
+      "Malayalam": "Thanni"
+   },
+   {
+      "English": "Bengal Currant",
+      "Hindi": "Garinga, Gotha",
+      "Tamil": "Kala, Kalakai",
+      "Malayalam": "Kaara"
+   },
+   {
+      "English": "Bermuda Grass",
+      "Hindi": "Durva",
+      "Tamil": "Aruvampillu",
+      "Malayalam": "Karuka"
+   },
+   {
+      "English": "Betel Leaf",
+      "Hindi": "Pan",
+      "Tamil": "Vettilai",
+      "Malayalam": "Vettila Kodi"
+   },
+   {
+      "English": "Betelnut Palm, Arecanut Palm",
+      "Hindi": "Supari",
+      "Tamil": "Kamuhu, Pakku",
+      "Malayalam": "Kamuku"
+   },
+   {
+      "English": "Bishop's Weed",
+      "Hindi": "Ajovan",
+      "Tamil": "Amam",
+      "Malayalam": "Ayamodakam"
+   },
+   {
+      "English": "Black Musali",
+      "Hindi": "Musali",
+      "Tamil": "Nilappanai",
+      "Malayalam": "Nilappana"
+   },
+   {
+      "English": "Black Nightshade, Garden Nightshade",
+      "Hindi": "Makkoy",
+      "Tamil": "Manthakkali, Karunthakkali",
+      "Malayalam": "Manithakkali, Mulaku Thakkali"
+   },
+   {
+      "English": "Black Oil Tree, Climbing Staff Plant",
+      "Hindi": "Malakangani",
+      "Tamil": "Athiparithwam, Valuluvai",
+      "Malayalam": "Cherupunna, Kilitheeni Panji"
+   },
+   {
+      "English": "Black Pepper",
+      "Hindi": "Kali Mirch",
+      "Tamil": "Nalla Mulaku",
+      "Malayalam": "Kurumulaku"
+   },
+   {
+      "English": "Bonduc Tree",
+      "Hindi": "Karajja, Kat-karanja",
+      "Tamil": "Kazhanchi, Kazharchi",
+      "Malayalam": "Kazhanchi"
+   },
+   {
+      "English": "Bone Setter Plant",
+      "Hindi": "Harsankar, Harjora",
+      "Tamil": "Piradal",
+      "Malayalam": "Changalam Paranda"
+   },
+   {
+      "English": "Bottle Gourd",
+      "Hindi": "Katuthumbi, Lokki",
+      "Tamil": "Sorakkai",
+      "Malayalam": "Chura"
+   },
+   {
+      "English": "Bowstring Hemp",
+      "Hindi": "Muhari, Marul, Murva",
+      "Tamil": "Marul, Mottamanji",
+      "Malayalam": "Maral, Sarppa Pola"
+   },
+   {
+      "English": "Bryoni",
+      "Hindi": "Gargumaru",
+      "Tamil": "Aiveli",
+      "Malayalam": "Neyyuunni, Aivirali Kova"
+   },
+   {
+      "English": "Bur Weed",
+      "Hindi": "Banokra",
+      "Tamil": "Marlu Mullu",
+      "Malayalam": "Arishta, Chuzhalipakam"
+   },
+   {
+      "English": "Butterfly Bean, Butterfly Pea",
+      "Hindi": "Khagin, Khajin",
+      "Tamil": "Karuvilai",
+      "Malayalam": "Shankhu Pushpam"
+   },
+   {
+      "English": "Camphor Tree",
+      "Hindi": "Duk",
+      "Tamil": "Karpooram",
+      "Malayalam": "Karpoora Maram"
+   },
+   {
+      "English": "Caper",
+      "Hindi": "Kabra",
+      "Tamil": "Kathotti",
+      "Malayalam": "Thudali, Karthotti"
+   },
+   {
+      "English": "Caraway, Black Cumin",
+      "Hindi": "Shiyajeera",
+      "Tamil": "Kekkujeerai",
+      "Malayalam": "Karinjeerakam"
+   },
+   {
+      "English": "Cardamom",
+      "Hindi": "Choti Elaichi",
+      "Tamil": "Yelakai",
+      "Malayalam": "Elam"
+   },
+   {
+      "English": "Cashew Tree",
+      "Hindi": "Kaju",
+      "Tamil": "Kote Munthiri, Mindri Paruppu",
+      "Malayalam": "Paranki Mavu"
+   },
+   {
+      "English": "Castor Oil Plant",
+      "Hindi": "Erandi, Arandi",
+      "Tamil": "Amanakku, Sitamanakku",
+      "Malayalam": "Avanakku"
+   },
+   {
+      "English": "Catechu",
+      "Hindi": "Khair",
+      "Tamil": "Kachukatti, Karungalai",
+      "Malayalam": "Karingali"
+   },
+   {
+      "English": "Centella, Indian Penivert",
+      "Hindi": "Brahmanduki, Khulakhudi",
+      "Tamil": "Vallarai",
+      "Malayalam": "Kudangal"
+   },
+   {
+      "English": "Ceylon Oak",
+      "Hindi": "Kusum, Kasva",
+      "Tamil": "Poomaram",
+      "Malayalam": "Poovam"
+   },
+   {
+      "English": "Champak, Champa",
+      "Hindi": "Champa",
+      "Tamil": "Sampigi, Shempakam",
+      "Malayalam": "Chempakam"
+   },
+   {
+      "English": "Chebulic Myrobalan",
+      "Hindi": "Harad",
+      "Tamil": "Kadukkai",
+      "Malayalam": "Kadukka"
+   },
+   {
+      "English": "China Root",
+      "Hindi": "Chopchini",
+      "Tamil": "Parankichekkai",
+      "Malayalam": "Cheenappavu"
+   },
+   {
+      "English": "Chinese Date, Jujuba",
+      "Hindi": "Ber",
+      "Tamil": "Ilanthai",
+      "Malayalam": "Lantha"
+   },
+   {
+      "English": "Chiretta Plant",
+      "Hindi": "Chirayatha",
+      "Tamil": "Nilavembu",
+      "Malayalam": "Kiriyaath, Chiraayatha"
+   },
+   {
+      "English": "Cinnamon",
+      "Hindi": "Dal Chini",
+      "Tamil": "Lavanga Pattai",
+      "Malayalam": "Ilavangam, Karuva Patta"
+   },
+   {
+      "English": "Clearing Nut Tree, Nirmali",
+      "Hindi": "Nirmali",
+      "Tamil": "Thettankottai",
+      "Malayalam": "Thettambaral"
+   },
+   {
+      "English": "Climbing Lily",
+      "Hindi": "Kalihari, Kaliyari",
+      "Tamil": "Kalayi",
+      "Malayalam": "Menthonni, Methonni"
+   },
+   {
+      "English": "Clove Tree",
+      "Hindi": "Launga, Lavanga",
+      "Tamil": "Kirampu",
+      "Malayalam": "Grampoo"
+   },
+   {
+      "English": "Coconut Palm",
+      "Hindi": "Nariyal",
+      "Tamil": "Thengku",
+      "Malayalam": "Thengu"
+   },
+   {
+      "English": "Colocynth, Bitter Cucumber",
+      "Hindi": "Indrayal",
+      "Tamil": "Pekkummatti",
+      "Malayalam": "Pekkummatti"
+   },
+   {
+      "English": "Common Myrrh Tree",
+      "Hindi": "Bol",
+      "Tamil": "Vellai Pappolam",
+      "Malayalam": "Meera"
+   },
+   {
+      "English": "Common Rue, Garden Rue",
+      "Hindi": "Sathap, Pisamarum",
+      "Tamil": "Arvatha",
+      "Malayalam": "Arutha, Sathapp"
+   },
+   {
+      "English": "Coomb Teak, Kashmiri Tree",
+      "Hindi": "Gambhara",
+      "Tamil": "Gumadi",
+      "Malayalam": "Kumbil"
+   },
+   {
+      "English": "Coral Jasmine, Paarijatha",
+      "Hindi": "Har Shinkhar, Shiharu",
+      "Tamil": "Pavala Mallikai",
+      "Malayalam": "Pavizhamalli"
+   },
+   {
+      "English": "Coriander",
+      "Hindi": "Dhaniyam",
+      "Tamil": "Kothamalli",
+      "Malayalam": "Malli"
+   },
+   {
+      "English": "Costus",
+      "Hindi": "Kut",
+      "Tamil": "Kottam",
+      "Malayalam": "Kottam"
+   },
+   {
+      "English": "Cotton Plant",
+      "Hindi": "Kapas",
+      "Tamil": "Paruthi",
+      "Malayalam": "Paruthi"
+   },
+   {
+      "English": "Country Chirata",
+      "Hindi": "Kiryat",
+      "Tamil": "Nilavembu",
+      "Malayalam": "Nilaveppu"
+   },
+   {
+      "English": "Country Mallow",
+      "Hindi": "Kabi, Chambi",
+      "Tamil": "Thuthi",
+      "Malayalam": "Ooram, Urakam"
+   },
+   {
+      "English": "Cowhage, Velvet Bean",
+      "Hindi": "Kavacha, Kivacha, Koncha",
+      "Tamil": "Punakkali, Punakkajori",
+      "Malayalam": "Naykurana"
+   },
+   {
+      "English": "Crateva",
+      "Hindi": "Barun",
+      "Tamil": "Maralinga",
+      "Malayalam": "Neermathalam"
+   },
+   {
+      "English": "Cumin Plant",
+      "Hindi": "Jeera",
+      "Tamil": "Seerakam",
+      "Malayalam": "Jeerakam"
+   },
+   {
+      "English": "Curry Leaf",
+      "Hindi": "Karaipak",
+      "Tamil": "Karuveppilai, Karuvempu",
+      "Malayalam": "Kariveppu"
+   },
+   {
+      "English": "Date Palm",
+      "Hindi": "Pinda Kherjur",
+      "Tamil": "Perichankai, Eenthu",
+      "Malayalam": "Eentha, Eetha"
+   },
+   {
+      "English": "Deadly Nightshade",
+      "Hindi": "Saga, Angura Saga",
+      "Tamil": "Baladona",
+      "Malayalam": "Belladona"
+   },
+   {
+      "English": "Deal Wood",
+      "Hindi": "Jaiputha, Jaiputhra",
+      "Tamil": "Irukolli, Karuppilai",
+      "Malayalam": "Pongalyam, Pongalam"
+   },
+   {
+      "English": "Devil's Apple",
+      "Hindi": "Dhathura",
+      "Tamil": "Ummathai",
+      "Malayalam": "Ummam"
+   },
+   {
+      "English": "Devil's Tree, Scholar's Tree",
+      "Hindi": "Chithavan",
+      "Tamil": "Ezhilai Palai",
+      "Malayalam": "Ezhilam Pala"
+   },
+   {
+      "English": "Diamond Flower",
+      "Hindi": "Thafaj, Had, Peeta Papad",
+      "Tamil": "Parpadakam",
+      "Malayalam": "Parpadaka Pullu"
+   },
+   {
+      "English": "Dill",
+      "Hindi": "Soya",
+      "Tamil": "Sathakuppi",
+      "Malayalam": "Shathakuppa"
+   },
+   {
+      "English": "Drumstick Tree",
+      "Hindi": "Senjan",
+      "Tamil": "Murugai",
+      "Malayalam": "Muringa"
+   },
+   {
+      "English": "Eagle Wood",
+      "Hindi": "Agar",
+      "Tamil": "Krishna Garu",
+      "Malayalam": "Akil"
+   },
+   {
+      "English": "East India Rose Bay",
+      "Hindi": "Chameli, Chandini, Thagar",
+      "Tamil": "Adukku Nanthyarvattai",
+      "Malayalam": "Nanthyarvattam"
+   },
+   {
+      "English": "East Indian Screw Tree",
+      "Hindi": "Maror Phali",
+      "Tamil": "Valam Puri, Kaiva",
+      "Malayalam": "Idampiri Valampiri"
+   },
+   {
+      "English": "Elephant Creeper",
+      "Hindi": "Samudraka Path, Samudra Shoka",
+      "Tamil": "Samathira Pachai",
+      "Malayalam": "Samudrapacha"
+   },
+   {
+      "English": "Fenugreek",
+      "Hindi": "Methi",
+      "Tamil": "Venthayam, Methi",
+      "Malayalam": "Uluva"
+   },
+   {
+      "English": "Fetid Cassia",
+      "Hindi": "Chakravad, Papamd",
+      "Tamil": "Usithagarai",
+      "Malayalam": "Chakra Thakara"
+   },
+   {
+      "English": "Fig, Edible Fig",
+      "Hindi": "Anjeer",
+      "Tamil": "Seema Athi, Anjeeram",
+      "Malayalam": "Sheema Athi"
+   },
+   {
+      "English": "Fire Plant",
+      "Hindi": "Chitha",
+      "Tamil": "Chithra, Chithira Moolam",
+      "Malayalam": "Chethi Koduveli"
+   },
+   {
+      "English": "Five Leaved Chaste Tree",
+      "Hindi": "Samhalu",
+      "Tamil": "Nochi",
+      "Malayalam": "Karinochi, Karunochi"
+   },
+   {
+      "English": "Flame Of The Forest",
+      "Hindi": "Palas",
+      "Tamil": "Murkkam Poo, Palasham",
+      "Malayalam": "Plash"
+   },
+   {
+      "English": "Flax Plant, Linseed",
+      "Hindi": "Alsi",
+      "Tamil": "Alivithai",
+      "Malayalam": "Cheruchana, Agashi"
+   },
+   {
+      "English": "Forest Pepper, Wild Orange Tree",
+      "Hindi": "Jangali Kali Mirch",
+      "Tamil": "Mullu Masthigai",
+      "Malayalam": "Kakka Thudali, Mulakuthanni"
+   },
+   {
+      "English": "Four O'clock Plant, Marvel Of Peru",
+      "Hindi": "Gulabas",
+      "Tamil": "Anthimalaru, Pattarasu",
+      "Malayalam": "Naalumani Chedi, Anthimalari"
+   },
+   {
+      "English": "Garlic",
+      "Hindi": "Beluli, Lasan",
+      "Tamil": "Vellai Pundu, Vellapun",
+      "Malayalam": "Veluthulli"
+   },
+   {
+      "English": "Ghokru",
+      "Hindi": "Gokhuru",
+      "Tamil": "Njerinji",
+      "Malayalam": "Njerinjil"
+   },
+   {
+      "English": "Giant Taro",
+      "Hindi": "Manakand",
+      "Tamil": "Merukin Kizhangu",
+      "Malayalam": "Maran Chembu"
+   },
+   {
+      "English": "Gingelly, Sesame",
+      "Hindi": "Thilpushpi, Hrudpathi",
+      "Tamil": "Ellu",
+      "Malayalam": "Ellu"
+   },
+   {
+      "English": "Ginger",
+      "Hindi": "Adrak",
+      "Tamil": "Sukku, Insi",
+      "Malayalam": "Inchi"
+   },
+   {
+      "English": "Grapevine",
+      "Hindi": "Munakka, Draksha, Angur",
+      "Tamil": "Draksha, Katimandi, Kottani",
+      "Malayalam": "Munthiri"
+   },
+   {
+      "English": "Green Gram",
+      "Hindi": "Moong",
+      "Tamil": "Pachai Payaru",
+      "Malayalam": "Cherupayar"
+   },
+   {
+      "English": "Haldu",
+      "Hindi": "Haldava",
+      "Tamil": "Sajakadali",
+      "Malayalam": "Manja Kadambu"
+   },
+   {
+      "English": "Hellebore Plant",
+      "Hindi": "Kudki",
+      "Tamil": "Kadurohini",
+      "Malayalam": "Kadurohini"
+   },
+   {
+      "English": "Henbane",
+      "Hindi": "Khurasani, Ajavayan",
+      "Tamil": "Kurasani Omam",
+      "Malayalam": "Kurashani"
+   },
+   {
+      "English": "Henna",
+      "Hindi": "Mehdi",
+      "Tamil": "Aibanam",
+      "Malayalam": "Mailanchi"
+   },
+   {
+      "English": "Himalayan Cedar, Deodar",
+      "Hindi": "Devdar, Deodar",
+      "Tamil": "Thoonumaram",
+      "Malayalam": "Devatharam, Devadaru"
+   },
+   {
+      "English": "Himalayan Silver Fir, Common Yew",
+      "Hindi": "Thaleesa Pathra",
+      "Tamil": "Thalisapathram",
+      "Malayalam": "Thaleesam"
+   },
+   {
+      "English": "Holostemma Creeper",
+      "Hindi": "Charivela",
+      "Tamil": "Palaikeerai",
+      "Malayalam": "Adapathiyan"
+   },
+   {
+      "English": "Holy Basil, Sacred Basil",
+      "Hindi": "Tulsi",
+      "Tamil": "Thulachi",
+      "Malayalam": "Thulasi"
+   },
+   {
+      "English": "Horsegram",
+      "Hindi": "Kulthi",
+      "Tamil": "Kollu",
+      "Malayalam": "Muthira, Kanam"
+   },
+   {
+      "English": "Indian Acalypha",
+      "Hindi": "Kuppi, Khokali",
+      "Tamil": "Kuppaimeni",
+      "Malayalam": "Kuppameni"
+   },
+   {
+      "English": "Indian Aconite",
+      "Hindi": "Bachnag, Meeta Vish",
+      "Tamil": "Vasanavi",
+      "Malayalam": "Vatsanabhi"
+   },
+   {
+      "English": "Indian Aloe, Barbados Aloe",
+      "Hindi": "Ghikadaur",
+      "Tamil": "Kattoli",
+      "Malayalam": "Kattar Vazha"
+   },
+   {
+      "English": "Indian Bdellium",
+      "Hindi": "Guggul",
+      "Tamil": "Gukkal",
+      "Malayalam": "Guggulu"
+   },
+   {
+      "English": "Indian Beech",
+      "Hindi": "Ditori",
+      "Tamil": "Pungumaram",
+      "Malayalam": "Ung, Punk"
+   },
+   {
+      "English": "Indian Birthwort",
+      "Hindi": "Iswar Mul, Rudrajatha",
+      "Tamil": "Perimarundu",
+      "Malayalam": "Garudakkodi"
+   },
+   {
+      "English": "Indian Borage",
+      "Hindi": "Chota Gulfa",
+      "Tamil": "Kalhuta Thumbai",
+      "Malayalam": "Kaattuthumba"
+   },
+   {
+      "English": "Indian Elm",
+      "Hindi": "Papri",
+      "Tamil": "Aya",
+      "Malayalam": "Avil, Aval"
+   },
+   {
+      "English": "Indian Gentian",
+      "Hindi": "Kamal Phul, Nil Kanth, Kutki",
+      "Tamil": "Nilavisu",
+      "Malayalam": "Thrayamanam, Thummi"
+   },
+   {
+      "English": "Indian Gooseberry",
+      "Hindi": "Amla",
+      "Tamil": "Nellikkai",
+      "Malayalam": "Nellikka"
+   },
+   {
+      "English": "Indian Hemp",
+      "Hindi": "Ganja, Bhang",
+      "Tamil": "Pangi, Kanja, Bhangi Ilai",
+      "Malayalam": "Kanjavu"
+   },
+   {
+      "English": "Indian Kino Tree",
+      "Hindi": "Vijayasara",
+      "Tamil": "Vengai Maram",
+      "Malayalam": "Venga"
+   },
+   {
+      "English": "Indian Labernum",
+      "Hindi": "Amalthas",
+      "Tamil": "Konnai",
+      "Malayalam": "Kanikkonna"
+   },
+   {
+      "English": "Indian Licorice",
+      "Hindi": "Rathi",
+      "Tamil": "Kunti",
+      "Malayalam": "Kunni"
+   },
+   {
+      "English": "Indian Madder",
+      "Hindi": "Majeeth",
+      "Tamil": "Mandittu",
+      "Malayalam": "Manchatti"
+   },
+   {
+      "English": "Indian Nightshade",
+      "Hindi": "Barhatha",
+      "Tamil": "Neymulli, Shiruvalludalai",
+      "Malayalam": "Cheruchunda, Putharichunda"
+   },
+   {
+      "English": "Indian Olibanum",
+      "Hindi": "Salai",
+      "Tamil": "Olibana",
+      "Malayalam": "Shallaki, Olibanam"
+   },
+   {
+      "English": "Indian Ptrumpet Flower Tree",
+      "Hindi": "Sona Pata, Sona, Phalphala",
+      "Tamil": "Vanga Maram",
+      "Malayalam": "Palaka Payyani"
+   },
+   {
+      "English": "Indian Rhubarb, Turpetha",
+      "Hindi": "Nisodh, Pithohari",
+      "Tamil": "Sivadai",
+      "Malayalam": "Thrikalpa Konna"
+   },
+   {
+      "English": "Indian Sarsaparilla",
+      "Hindi": "Gobu, Salsa, Kalisar",
+      "Tamil": "Nannari",
+      "Malayalam": "Naruneendi, Nannari"
+   },
+   {
+      "English": "Indian Senna",
+      "Hindi": "Sana",
+      "Tamil": "Nilavirai",
+      "Malayalam": "Chinnamukki, Nilavaka"
+   },
+   {
+      "English": "Indian Sorrel Plant",
+      "Hindi": "Amrul",
+      "Tamil": "Puliyarai",
+      "Malayalam": "Puliyaral"
+   },
+   {
+      "English": "Indian Squill",
+      "Hindi": "Jangali Piyas",
+      "Tamil": "Narivengaya",
+      "Malayalam": "Narivenkayam"
+   },
+   {
+      "English": "Indian Valerian",
+      "Hindi": "Thagar, Sugandhabala",
+      "Tamil": "Thagaram",
+      "Malayalam": "Thakaram"
+   },
+   {
+      "English": "Indigo Plant",
+      "Hindi": "Neel",
+      "Tamil": "Nilam, Avari",
+      "Malayalam": "Neela Amari"
+   },
+   {
+      "English": "Ingudi, Zachum Oil Plant",
+      "Hindi": "Hingol, Hingot",
+      "Tamil": "Nanchunda",
+      "Malayalam": "Oda Maram"
+   },
+   {
+      "English": "Ironwood Tree",
+      "Hindi": "Peela Nagakesar",
+      "Tamil": "Vilutta Champaka",
+      "Malayalam": "Nagakesaram, Churuli"
+   },
+   {
+      "English": "Ivory Wood",
+      "Hindi": "Duthi, Indarjo",
+      "Tamil": "Kumbam Palai, Vettu Palai",
+      "Malayalam": "Venpala, Vettu Pala"
+   },
+   {
+      "English": "Ivy Gourd",
+      "Hindi": "Kandoori, Paraval",
+      "Tamil": "Kovai",
+      "Malayalam": "Koval"
+   },
+   {
+      "English": "Jangali Badam",
+      "Hindi": "Chalmogara",
+      "Tamil": "Maravathai",
+      "Malayalam": "Marotti"
+   },
+   {
+      "English": "Japan Wood, Brazil Wood, Span Wood",
+      "Hindi": "Bakkam, Pathang",
+      "Tamil": "Pathangam",
+      "Malayalam": "Chappangam"
+   },
+   {
+      "English": "Jasmine",
+      "Hindi": "Jathi",
+      "Tamil": "Kodimallikai",
+      "Malayalam": "Pichi, Pichakam"
+   },
+   {
+      "English": "Jatamansi, Spikenard, Musk-root Plant",
+      "Hindi": "Jatamamsi, Kalchada",
+      "Tamil": "Jatamachi",
+      "Malayalam": "Jatamanchi"
+   },
+   {
+      "English": "Karaya",
+      "Hindi": "Gulu, Kathiru",
+      "Tamil": "Kavalam, Sendali, Vellayputhali",
+      "Malayalam": "Thondi"
+   },
+   {
+      "English": "Kumkum Tree, Monkey Face Tree",
+      "Hindi": "Kamala, Sindoor, Rohini",
+      "Tamil": "Kapli",
+      "Malayalam": "Kurangu Manjal, Sindura Maram"
+   },
+   {
+      "English": "Kurchi Bark, Tellicherry Bark",
+      "Hindi": "Kuda",
+      "Tamil": "Veppalai, Kudachapalai",
+      "Malayalam": "Kudakappala"
+   },
+   {
+      "English": "Kusha Grass",
+      "Hindi": "Kusha",
+      "Tamil": "Darbha",
+      "Malayalam": "Darbha"
+   },
+   {
+      "English": "Lesser Galangal",
+      "Hindi": "Kalijan, Sugandha Bach",
+      "Tamil": "Pararathai",
+      "Malayalam": "Chittaratha"
+   },
+   {
+      "English": "Lime",
+      "Hindi": "Nimboo, Nimbu",
+      "Tamil": "Elumichai",
+      "Malayalam": "Cheru Narakam"
+   },
+   {
+      "English": "Liquorice",
+      "Hindi": "Mul Hati, Jeti Madhu",
+      "Tamil": "Athimadhuram",
+      "Malayalam": "Iratti Madhuram"
+   },
+   {
+      "English": "Lodh Tree",
+      "Hindi": "Lodhra",
+      "Tamil": "Vellilothi",
+      "Malayalam": "Pachoti"
+   },
+   {
+      "English": "Long Pepper",
+      "Hindi": "Pipal, Pipar",
+      "Tamil": "Pipali",
+      "Malayalam": "Thippali"
+   },
+   {
+      "English": "Long-leaved Pine, Chir Pine",
+      "Hindi": "Cheeda, Chir",
+      "Tamil": "Sarala Devadru",
+      "Malayalam": "Charalam"
+   },
+   {
+      "English": "Lotus",
+      "Hindi": "Kanval",
+      "Tamil": "Yhamarai",
+      "Malayalam": "Thamara"
+   },
+   {
+      "English": "Madar",
+      "Hindi": "Akavana, Aka, Mandara",
+      "Tamil": "Pellerku",
+      "Malayalam": "Erukku"
+   },
+   {
+      "English": "Malabar Nut",
+      "Hindi": "Adusa",
+      "Tamil": "Adathodai",
+      "Malayalam": "Adalodakam"
+   },
+   {
+      "English": "Malabar Tamarind",
+      "Hindi": "Kokam",
+      "Tamil": "Aradan, Makki",
+      "Malayalam": "Kudampuli"
+   },
+   {
+      "English": "Marking Nut Tree",
+      "Hindi": "Bhella",
+      "Tamil": "Shengottai",
+      "Malayalam": "Alakku Cheru, Thenkotta"
+   },
+   {
+      "English": "Mexican Poppy",
+      "Hindi": "Pila Dhathur, Brahmadanthi",
+      "Tamil": "Kudiyotti",
+      "Malayalam": "Erumakkalli"
+   },
+   {
+      "English": "Morning Glory, Fingerleaf",
+      "Hindi": "Badarikaru, Bilaikaru",
+      "Tamil": "Palmodika, Anchila Thali",
+      "Malayalam": "Palmuthakku"
+   },
+   {
+      "English": "Mowra Butter Tree, Mahua",
+      "Hindi": "Mahua",
+      "Tamil": "Ilupi, Iluppai",
+      "Malayalam": "Ilippa"
+   },
+   {
+      "English": "Musk Mallow",
+      "Hindi": "Mushkadana",
+      "Tamil": "Vendai Kasthoori",
+      "Malayalam": "Kasthoori Venda"
+   },
+   {
+      "English": "Mustard",
+      "Hindi": "Sursu, Rai",
+      "Tamil": "Kaduku",
+      "Malayalam": "Kaduku"
+   },
+   {
+      "English": "Neem, Margosa",
+      "Hindi": "Neem",
+      "Tamil": "Veppu",
+      "Malayalam": "Arya Veppu"
+   },
+   {
+      "English": "Negro Coffee",
+      "Hindi": "Sarika Sondi, Gajarsag",
+      "Tamil": "Naattam, Thakarai",
+      "Malayalam": "Oolanthakara, Ponnaveeram"
+   },
+   {
+      "English": "Nicker Bean, St. Thomas Bean",
+      "Hindi": "Gilla",
+      "Tamil": "Vattavalli, Chillu",
+      "Malayalam": "Paranda Valli"
+   },
+   {
+      "English": "Nut Grass, Coco Grass",
+      "Hindi": "Modha, Nagara Modha",
+      "Tamil": "Mudhakacha",
+      "Malayalam": "Muthanga"
+   },
+   {
+      "English": "Nutmeg",
+      "Hindi": "Jaya Phal",
+      "Tamil": "Jathikkai",
+      "Malayalam": "Jathi"
+   },
+   {
+      "English": "Onion",
+      "Hindi": "Pyaj",
+      "Tamil": "Venkayam",
+      "Malayalam": "Chuvannulli"
+   },
+   {
+      "English": "Opium Poppy",
+      "Hindi": "Aphim, Kashkash",
+      "Tamil": "Apini",
+      "Malayalam": "Karuppu, Poppy"
+   },
+   {
+      "English": "Paddy",
+      "Hindi": "Chaval",
+      "Tamil": "Arisu, Nel",
+      "Malayalam": "Nellu"
+   },
+   {
+      "English": "Palmyra Palm",
+      "Hindi": "Thalthar, Thaad",
+      "Tamil": "Panai Maram",
+      "Malayalam": "Karimpana"
+   },
+   {
+      "English": "Papaya, Papaw",
+      "Hindi": "Papita",
+      "Tamil": "Pappayya",
+      "Malayalam": "Papaya, Oma"
+   },
+   {
+      "English": "Periwinkle",
+      "Hindi": "Sadabahar",
+      "Tamil": "Sudukatu",
+      "Malayalam": "Shavakotta Pacha"
+   },
+   {
+      "English": "Persia Tree, Umbrella Tree",
+      "Hindi": "Parshipu, Pinchal",
+      "Tamil": "Poovarasu",
+      "Malayalam": "Poovarash"
+   },
+   {
+      "English": "Pharbitis Seed",
+      "Hindi": "Kaladana",
+      "Tamil": "Kakkathan",
+      "Malayalam": "Krishnabeejam"
+   },
+   {
+      "English": "Pomegranate",
+      "Hindi": "Anar",
+      "Tamil": "Madalai",
+      "Malayalam": "Mathalam"
+   },
+   {
+      "English": "Prickly Chaff Flower",
+      "Hindi": "Chirchira",
+      "Tamil": "Nayuruvi",
+      "Malayalam": "Kadaladi"
+   },
+   {
+      "English": "Prickly Leaved Elephant's Foot",
+      "Hindi": "Gobhi",
+      "Tamil": "Anasavadi",
+      "Malayalam": "Ana Chuvadi"
+   },
+   {
+      "English": "Purging Croton",
+      "Hindi": "Jamalgot",
+      "Tamil": "Kattu Kattai",
+      "Malayalam": "Neervalam"
+   },
+   {
+      "English": "Purging Nut",
+      "Hindi": "Bagberanda, Vyakhreranda",
+      "Tamil": "Kattamanakku",
+      "Malayalam": "Kattavanakku, Kadalavanakku"
+   },
+   {
+      "English": "Purple Bauhinia",
+      "Hindi": "Khayirvar, Rakthakanchan",
+      "Tamil": "Mandari",
+      "Malayalam": "Kovidaram, Chuvanna Mandaram"
+   },
+   {
+      "English": "Purple Fleabane",
+      "Hindi": "Kalijeeri",
+      "Tamil": "Kaattucheerakam",
+      "Malayalam": "Kaattujeerakam"
+   },
+   {
+      "English": "Purple Lippa",
+      "Hindi": "Jala Pipal, Panisi",
+      "Tamil": "Poduthala",
+      "Malayalam": "Jalathippali, Neer Thippali"
+   },
+   {
+      "English": "Purple Tephrosia",
+      "Hindi": "Sarafomka",
+      "Tamil": "Kamukki Vellai",
+      "Malayalam": "Kozhinjil"
+   },
+   {
+      "English": "Purslane, Pursley",
+      "Hindi": "Kulpha, Baralonia",
+      "Tamil": "Paruppukkeerai, Uppukkeerai",
+      "Malayalam": "Kozhuppa, Uppu Cheera"
+   },
+   {
+      "English": "Radish",
+      "Hindi": "Mooli",
+      "Tamil": "Mullanki",
+      "Malayalam": "Mullangi"
+   },
+   {
+      "English": "Red Cotton Tree",
+      "Hindi": "Semal, Semar",
+      "Tamil": "Shalmalu",
+      "Malayalam": "Ilavu"
+   },
+   {
+      "English": "Red Sandal Wood",
+      "Hindi": "Lal Chandan",
+      "Tamil": "Chen Chandanam",
+      "Malayalam": "Raktha Chandanam"
+   },
+   {
+      "English": "Red Toon, Indian Mahagani",
+      "Hindi": "Thuna",
+      "Tamil": "Thoonamaram, Madagiri Vembu",
+      "Malayalam": "Chandana Vembu"
+   },
+   {
+      "English": "Redwood Fig Tree",
+      "Hindi": "Daduri, Kagsha",
+      "Tamil": "Peyathi, Ottanthalam",
+      "Malayalam": "Erumanaakku"
+   },
+   {
+      "English": "Ribbed Gourd",
+      "Hindi": "Jinga",
+      "Tamil": "Pekum Kai",
+      "Malayalam": "Peechil"
+   },
+   {
+      "English": "Rosary Nut, Rudraksh Tree",
+      "Hindi": "Rudra, Rudrak",
+      "Tamil": "Kurichanka Mani",
+      "Malayalam": "Rudraksham"
+   },
+   {
+      "English": "Round Zedoary",
+      "Hindi": "Kachur",
+      "Tamil": "Kacholam",
+      "Malayalam": "Kachooram"
+   },
+   {
+      "English": "Sacred Fig",
+      "Hindi": "Pipal, Pipar",
+      "Tamil": "Arasu",
+      "Malayalam": "Aal"
+   },
+   {
+      "English": "Safflower Plant, Bastard Saffron",
+      "Hindi": "Kusum",
+      "Tamil": "Sendurakam",
+      "Malayalam": "Chendoorakam"
+   },
+   {
+      "English": "Saffron Plant",
+      "Hindi": "Kesara, Safran",
+      "Tamil": "Kumkuma Poovu",
+      "Malayalam": "Kumkumam"
+   },
+   {
+      "English": "Sal Tree",
+      "Hindi": "Sal, Sakhuva",
+      "Tamil": "Kalingiyam, Kankiliyam",
+      "Malayalam": "Shala Maram, Chenchelyam"
+   },
+   {
+      "English": "Sandal Wood",
+      "Hindi": "Chandan",
+      "Tamil": "Sandanam",
+      "Malayalam": "Chandanam"
+   },
+   {
+      "English": "Sebasten Plum",
+      "Hindi": "Lasoda",
+      "Tamil": "Vidi, Naruvili",
+      "Malayalam": "Naruvari"
+   },
+   {
+      "English": "Shoe Flower Plant",
+      "Hindi": "Gudahal",
+      "Tamil": "Chemparuthi",
+      "Malayalam": "Chemparathi"
+   },
+   {
+      "English": "Sida",
+      "Hindi": "Bariyar, Kungi",
+      "Tamil": "Mayir Manikkam",
+      "Malayalam": "Kurunthotti"
+   },
+   {
+      "English": "Sizzling Tree, Siris",
+      "Hindi": "Shiris",
+      "Tamil": "Vakai",
+      "Malayalam": "Nenmeni Vaka"
+   },
+   {
+      "English": "Soapnut Tree",
+      "Hindi": "Reedha",
+      "Tamil": "Ponnam Kottai",
+      "Malayalam": "Pashakkotta, Urunchi Maram"
+   },
+   {
+      "English": "Spearmint",
+      "Hindi": "Pudina, Podina",
+      "Tamil": "Puthina",
+      "Malayalam": "Puthina"
+   },
+   {
+      "English": "Spogel",
+      "Hindi": "Isabgol",
+      "Tamil": "Isapp Gola",
+      "Malayalam": "Ishadgol"
+   },
+   {
+      "English": "Spurge",
+      "Hindi": "Sehunda, Dhusar",
+      "Tamil": "Ilai Kalli, Kalli",
+      "Malayalam": "Kallichedi"
+   },
+   {
+      "English": "Strychnine Tree",
+      "Hindi": "Kupilu",
+      "Tamil": "Yetti, Yetti Kottai",
+      "Malayalam": "Kanjiram"
+   },
+   {
+      "English": "Sugar Apple",
+      "Hindi": "Aatha, Seetha Phal",
+      "Tamil": "Aath, Seetha Pazham",
+      "Malayalam": "Aatha, Seetha Phalam"
+   },
+   {
+      "English": "Sugar Cane",
+      "Hindi": "Eegh, Ganna",
+      "Tamil": "Karumbu",
+      "Malayalam": "Karimbu"
+   },
+   {
+      "English": "Sweet Fennel",
+      "Hindi": "Somph",
+      "Tamil": "Sohikkirai",
+      "Malayalam": "Perum Jeerakam"
+   },
+   {
+      "English": "Sweet Flag, Calamus",
+      "Hindi": "Vacha, Ghoda Vacha",
+      "Tamil": "Vasambu",
+      "Malayalam": "Vayambu"
+   },
+   {
+      "English": "Tamarind Tree",
+      "Hindi": "Imli",
+      "Tamil": "Ambilam",
+      "Malayalam": "Puli Maram"
+   },
+   {
+      "English": "Tea Plant",
+      "Hindi": "Cha",
+      "Tamil": "Karuppu Theyilai",
+      "Malayalam": "Theyila"
+   },
+   {
+      "English": "Thatch Screw Pine",
+      "Hindi": "Kethgi, Kiyora, Gaganthul",
+      "Tamil": "Kaithai, Kechiya",
+      "Malayalam": "Kaitha, Pookkaitha"
+   },
+   {
+      "English": "Tobacco",
+      "Hindi": "Thambakku",
+      "Tamil": "Pukayilai",
+      "Malayalam": "Pukayila"
+   },
+   {
+      "English": "Tooth-brush Tree",
+      "Hindi": "Pilu",
+      "Tamil": "Perungoli, Kalaarva",
+      "Malayalam": "Ukamaram, Pilu"
+   },
+   {
+      "English": "Touch-me-not",
+      "Hindi": "Lajvanthi, Lajjalu",
+      "Tamil": "Thottalvadi",
+      "Malayalam": "Thottavadi"
+   },
+   {
+      "English": "Tree Of Heaven",
+      "Hindi": "Adu, Aralu",
+      "Tamil": "Perumaruthu",
+      "Malayalam": "Matti, Mattippal Maram"
+   },
+   {
+      "English": "Tree Turmeric",
+      "Hindi": "Daru Haldi",
+      "Tamil": "Maramanjal",
+      "Malayalam": "Maramanjal"
+   },
+   {
+      "English": "Turmeric",
+      "Hindi": "Haldi",
+      "Tamil": "Manchal",
+      "Malayalam": "Manjal"
+   },
+   {
+      "English": "Velvet Leaf",
+      "Hindi": "Padha",
+      "Tamil": "Appatta",
+      "Malayalam": "Mala Thangi"
+   },
+   {
+      "English": "Vetiver, Cuscus Grass",
+      "Hindi": "Khas",
+      "Tamil": "Vetiver",
+      "Malayalam": "Ramacham"
+   },
+   {
+      "English": "Vine Spinach, Indian Spinach",
+      "Hindi": "Bompoy, Safed Bachla",
+      "Tamil": "Sivappu Basalakkeerai",
+      "Malayalam": "Vashalacheera"
+   },
+   {
+      "English": "Walnut",
+      "Hindi": "Akharoda",
+      "Tamil": "Akoda",
+      "Malayalam": "Acrot"
+   },
+   {
+      "English": "Water Lily",
+      "Hindi": "Nil Kamal",
+      "Tamil": "Seethambal",
+      "Malayalam": "Aambal"
+   },
+   {
+      "English": "Wawrung",
+      "Hindi": "Vayavidanga",
+      "Tamil": "Vayu Vilamayam",
+      "Malayalam": "Vizhal"
+   },
+   {
+      "English": "Waxgourd, Ashgourd",
+      "Hindi": "Golkandu",
+      "Tamil": "Kalyan Pushini",
+      "Malayalam": "Kumbalam"
+   },
+   {
+      "English": "White Emetic Nut",
+      "Hindi": "Dekamari",
+      "Tamil": "Kumbil, Thikkamalli",
+      "Malayalam": "Naadihingu, Gandharajan"
+   },
+   {
+      "English": "White Murda, Arjun Terminalia",
+      "Hindi": "Arjuna, Kahu, Kahua",
+      "Tamil": "Maruthai",
+      "Malayalam": "Neer Maruthu"
+   },
+   {
+      "English": "Wild Egg Plant",
+      "Hindi": "Kanthikari",
+      "Tamil": "Kandan Kathiri",
+      "Malayalam": "Kandakari Chunda"
+   },
+   {
+      "English": "Wild Nutmeg, Malabar Nutmeg",
+      "Hindi": "Kaiphal",
+      "Tamil": "Pathiri",
+      "Malayalam": "Kattu Jaathi"
+   },
+   {
+      "English": "Wild Rue",
+      "Hindi": "Hurmul",
+      "Tamil": "Seemai Azhavanai Virai",
+      "Malayalam": "Harmal"
+   },
+   {
+      "English": "Wild Turmeric",
+      "Hindi": "Jangali Haldi",
+      "Tamil": "Kasthoori Manjal",
+      "Malayalam": "Kasthoori Manjal"
+   },
+   {
+      "English": "Withania",
+      "Hindi": "Ashwagandh",
+      "Tamil": "Amukkura",
+      "Malayalam": "Amukkuram"
+   },
+   {
+      "English": "Worm Killer, Birth Wort",
+      "Hindi": "Keedamaari",
+      "Tamil": "Aadu Thinna Palai",
+      "Malayalam": "Aadu Thoda Pala"
+   },
+   {
+      "English": "Worm Seed",
+      "Hindi": "Kiramani, Ajavayan",
+      "Tamil": "Kozhung",
+      "Malayalam": "Kolunnu, Makkippoovu"
+   },
+   {
+      "English": "Yellow Nail-dye",
+      "Hindi": "Kadasaraiya, Hayambasa",
+      "Tamil": "Chemmulli",
+      "Malayalam": "Manja Kanakambaram"
+   }
+]}

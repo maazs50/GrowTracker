@@ -1,0 +1,610 @@
+{"names":[
+   {
+      "English": "Amaranth, amaranth leaves",
+      "Malayalam": "Cheera, Mullan Cheera",
+      "Hindi": "Chauli, Chavleri Sag, chaulai",
+      "Tamil": "mulaikkira",
+      "Telugu": "thotakura",
+      "Kannada": "aharive soppu"
+   },
+   {
+      "English": "Arrow Root",
+      "Malayalam": "Koova",
+      "Hindi": "Shishumul, ararot",
+      "Tamil": "Ararutkilangu, Kua, Ararut-kizhangu",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Ash gourd, White Gourd, white pumpkin, winter melon",
+      "Malayalam": "Kumbalanga",
+      "Hindi": "petha",
+      "Tamil": "Neer Poosanikkai, poosanikai",
+      "Telugu": "Boothitha gummadi Kaaya, boodida gumadikaya",
+      "Kannada": "kumbal kai, Budugumba, bood kumbalakai"
+   },
+   {
+      "English": "asparagus",
+      "Malayalam": "Shataavari, Sathavari",
+      "Hindi": "",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Aubergine, Brinjal, Eggplant",
+      "Malayalam": "Vazhuthananga, Kathrikka",
+      "Hindi": "Baingan, baingan",
+      "Tamil": "Kathirikkai",
+      "Telugu": "Vankaya, venkaya",
+      "Kannada": "Badane, badanekayi"
+   },
+   {
+      "English": "Beans",
+      "Malayalam": "Payru, Payaru, Payar",
+      "Hindi": "",
+      "Tamil": "Avarai",
+      "Telugu": "French Chikkudu",
+      "Kannada": "Hurlikai"
+   },
+   {
+      "English": "Beet root, beetroot",
+      "Malayalam": "Beet root",
+      "Hindi": "chukandar, chukandar, Chakundar",
+      "Tamil": "Beet root",
+      "Telugu": "Beet root",
+      "Kannada": "Beet root"
+   },
+   {
+      "English": "Bitter gourd, bitter melon",
+      "Malayalam": "Paavakka, Pavakka (Kaipakka)",
+      "Hindi": "karela",
+      "Tamil": "Paavakkai, pavakkai",
+      "Telugu": "Kakarakaya,",
+      "Kannada": "Hagalkai, hagal kayi"
+   },
+   {
+      "English": "Bottle gourd, opo squash, Calabash",
+      "Malayalam": "Sorekai, Churakka",
+      "Hindi": "lauki, ghia, Louki, Dudhi, Ghiya",
+      "Tamil": "Surakkai, suraikai",
+      "Telugu": "Sorakaya, sorakaya, aanapakaya",
+      "Kannada": "Sorekai, halu"
+   },
+   {
+      "English": "Broad beans",
+      "Malayalam": "Avarakka",
+      "Hindi": "paapidi",
+      "Tamil": "Avarakai",
+      "Telugu": "Pedda chikkudu",
+      "Kannada": "Averakai"
+   },
+   {
+      "English": "Broccoli",
+      "Malayalam": "Broccoli",
+      "Hindi": "",
+      "Tamil": "Pachai Pookosu",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Brussels Sprouts",
+      "Malayalam": "",
+      "Hindi": "",
+      "Tamil": "Kilai Kosugal",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Cabbage",
+      "Malayalam": "Muttakoos",
+      "Hindi": "patta gobhi, paat gobhi, Band Gobhi",
+      "Tamil": "Muttai Gosu, muttai kosu",
+      "Telugu": "kosu gadda",
+      "Kannada": "Kosu, ele kosu"
+   },
+   {
+      "English": "Capsicum, Bell Pepper, green bell pepper",
+      "Malayalam": "Kuda mulag",
+      "Hindi": "shimla mirch",
+      "Tamil": "kudai milagai, , Kudamilagai",
+      "Telugu": "bunga mirapakay",
+      "Kannada": "donne menasinakai, , Donmensinkai"
+   },
+   {
+      "English": "Carrot",
+      "Malayalam": "Sheema mullangi, Manja Mullangi, Carrot",
+      "Hindi": "gajar, Gaajar",
+      "Tamil": "Carrot",
+      "Telugu": "Gujjara gadda, gajaru gadda",
+      "Kannada": "Gajjari, gajjari"
+   },
+   {
+      "English": "Cauliflower",
+      "Malayalam": "",
+      "Hindi": "phool gobi, Phul Gobhi",
+      "Tamil": "Pookkosu",
+      "Telugu": "Kasugadda, gobi puvvu",
+      "Kannada": "Hookosu, hu kosu"
+   },
+   {
+      "English": "celery",
+      "Malayalam": "",
+      "Hindi": "ajamoda",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Chayote, Chayote Squash",
+      "Malayalam": "Sheema Kathrika, Bangalore Kathrikka, Chow Chow",
+      "Hindi": "",
+      "Tamil": "Banglore Kathirkkai/ Seemai kathirikkai / chow chow",
+      "Telugu": "Seeme badanekaya",
+      "Kannada": "Seeme badanekaye"
+   },
+   {
+      "English": "Chilli, Chilly",
+      "Malayalam": "Mulaku, Mulak",
+      "Hindi": "",
+      "Tamil": "Milagai",
+      "Telugu": "Yerra mirapa",
+      "Kannada": "Menasina kaayi"
+   },
+   {
+      "English": "Chinese Potato",
+      "Malayalam": "Koorka",
+      "Hindi": "",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Cluster beans, French Beans",
+      "Malayalam": "Kottavara",
+      "Hindi": "guar ki phali, Guar phali",
+      "Tamil": "Kothavarangai",
+      "Telugu": "Goru chikkudu",
+      "Kannada": "Gorikaayi"
+   },
+   {
+      "English": "coconut",
+      "Malayalam": "Thenga, Naalikeram",
+      "Hindi": "nariyal",
+      "Tamil": "thengai",
+      "Telugu": "kobbari kaya",
+      "Kannada": "tengina kai"
+   },
+   {
+      "English": "Colocasia, Taro, Arbi, Colocasia roots, taro roots",
+      "Malayalam": "Chembu, Chembu",
+      "Hindi": "arbi",
+      "Tamil": "Seppankizhangu, seppenkilangu",
+      "Telugu": "chamadumpa",
+      "Kannada": "Kesuvinagadde"
+   },
+   {
+      "English": "coriander leaves, cilantro leaves",
+      "Malayalam": "Malli ila",
+      "Hindi": "dhania patta",
+      "Tamil": "kothamalli thalai",
+      "Telugu": "kothimeera",
+      "Kannada": "kottambari soppu"
+   },
+   {
+      "English": "Corn, Indian Corn, Maize, Sweet Corn",
+      "Malayalam": "Cholam",
+      "Hindi": "makai, bhutta, Makka",
+      "Tamil": "Makka Solam, makka cholam",
+      "Telugu": "mokkajonna",
+      "Kannada": "govin jol"
+   },
+   {
+      "English": "Cucumber, Yellow Cucumber, Indian Cucumber",
+      "Malayalam": "Vellarikkai",
+      "Hindi": "Kheera, Kakadi",
+      "Tamil": "Vellarikai, vellarikkai",
+      "Telugu": "Dosakaya, kaakdi",
+      "Kannada": "Savetekai, savte kai"
+   },
+   {
+      "English": "Curry Leaf, curry leaves",
+      "Malayalam": "Kariveppila,",
+      "Hindi": "Kadipatta, kadi patta",
+      "Tamil": "karuveppilai",
+      "Telugu": "karivaepaku",
+      "Kannada": "karibevu soppu"
+   },
+   {
+      "English": "Dill",
+      "Malayalam": "",
+      "Hindi": "suwa, savaa",
+      "Tamil": "sataguppi",
+      "Telugu": "sadhapa vithulu /sathapushpa vithulu",
+      "Kannada": "sabbasige soppu"
+   },
+   {
+      "English": "Drumstick",
+      "Malayalam": "Muringakka, Muringakka",
+      "Hindi": "Sahjan, sahjan ki phalli",
+      "Tamil": "Murungai kai, murungaikkai",
+      "Telugu": "Mulakada, mullakkada",
+      "Kannada": "Nunge kai, nuggekai"
+   },
+   {
+      "English": "elephant yam, Elephant yam, Elephant foot yam",
+      "Malayalam": "Chenath- thanda/chand",
+      "Hindi": "sooran, suran, jimikand",
+      "Tamil": "senai kizhangu, Karunai kizhangu/ Senai Kizhangu",
+      "Telugu": "kanda, Kanda gaddha",
+      "Kannada": "suvarna gedde, panjar gadde, Suvarna gadde"
+   },
+   {
+      "English": "fenugreek leaves",
+      "Malayalam": "Uluva Ila",
+      "Hindi": "methi",
+      "Tamil": "vendhayam keerai",
+      "Telugu": "menthikura",
+      "Kannada": "menthe soppu"
+   },
+   {
+      "English": "flat green beans, hyacinth beans",
+      "Malayalam": "",
+      "Hindi": "sem ki phali, papdi",
+      "Tamil": "",
+      "Telugu": "chikudkaya",
+      "Kannada": ""
+   },
+   {
+      "English": "French beans/green beans",
+      "Malayalam": "Beans",
+      "Hindi": "faras bean, sem",
+      "Tamil": "Beans",
+      "Telugu": "Beans",
+      "Kannada": "tingal avre kai, Hurulikey"
+   },
+   {
+      "English": "fresh ginger",
+      "Malayalam": "Pacha Inchi",
+      "Hindi": "adrak",
+      "Tamil": "inji",
+      "Telugu": "allam",
+      "Kannada": "shunti"
+   },
+   {
+      "English": "Garbanzo Beans, Chickpea, Bengal Gram",
+      "Malayalam": "Vella Kadala",
+      "Hindi": "Chana",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "garlic",
+      "Malayalam": "Velluthulli",
+      "Hindi": "lahsun, Lehsun",
+      "Tamil": "poondu",
+      "Telugu": "vellulli",
+      "Kannada": "bellulli"
+   },
+   {
+      "English": "Ginger, Ginger",
+      "Malayalam": "Inji",
+      "Hindi": "Adrak",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Green chilli",
+      "Malayalam": "Pacha Mulaku",
+      "Hindi": "Hari mirch, hari mirch",
+      "Tamil": "pacchai milagai",
+      "Telugu": "pachi mirapakaya",
+      "Kannada": "HasiMenasu"
+   },
+   {
+      "English": "Green Gram, Green Gram Dal",
+      "Malayalam": "Cheru Payru Parippu (Moong Dal)",
+      "Hindi": "Moong",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Green peas",
+      "Malayalam": "Pacha Pattani",
+      "Hindi": "",
+      "Tamil": "Pachai Pattai",
+      "Telugu": "Bhattani",
+      "Kannada": "Bathare"
+   },
+   {
+      "English": "Horseradish",
+      "Malayalam": "",
+      "Hindi": "",
+      "Tamil": "Murunga",
+      "Telugu": "",
+      "Kannada": "Nuggaeekay"
+   },
+   {
+      "English": "Ivy Gourd, Little Gourd, Gherkin",
+      "Malayalam": "Kovakka",
+      "Hindi": "tindora, Tindora, Kunduru, tindora",
+      "Tamil": "Kovakkai",
+      "Telugu": "dondakaya, Dondakaya",
+      "Kannada": "tondekai"
+   },
+   {
+      "English": "jackfruit",
+      "Malayalam": "Chakka",
+      "Hindi": "kathal, Katahal",
+      "Tamil": "pala pazham",
+      "Telugu": "panasa",
+      "Kannada": "halsina hannu"
+   },
+   {
+      "English": "Knolkol, Kohlrabi",
+      "Malayalam": "Seema Mullangi",
+      "Hindi": "",
+      "Tamil": "Nookul",
+      "Telugu": "Noolkol",
+      "Kannada": "Navi I Kosu"
+   },
+   {
+      "English": "Lady's finger, Okra, Ladies Finger, lady finger",
+      "Malayalam": "Vendakai, Vendakka",
+      "Hindi": "Okra, Bhindi,",
+      "Tamil": "Vendakkai",
+      "Telugu": "Bendakaye, bendakaya",
+      "Kannada": "Bende, , bendekai"
+   },
+   {
+      "English": "lettuce",
+      "Malayalam": "Pachadi Cheera, Uvar Cheera",
+      "Hindi": "",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "lime, lemon",
+      "Malayalam": "Naranga",
+      "Hindi": "nimbu",
+      "Tamil": "elumichai pazham",
+      "Telugu": "nimmakaya",
+      "Kannada": "nimbekai"
+   },
+   {
+      "English": "malabar spinach",
+      "Malayalam": "Vallicheera",
+      "Hindi": "poi saag",
+      "Tamil": "",
+      "Telugu": "bachhali kura",
+      "Kannada": ""
+   },
+   {
+      "English": "mint leaves",
+      "Malayalam": "Pudina ila",
+      "Hindi": "pudina patta",
+      "Tamil": "puthina",
+      "Telugu": "pudian",
+      "Kannada": "pudina"
+   },
+   {
+      "English": "Mushroom",
+      "Malayalam": "Koon",
+      "Hindi": "kukkurmutta, khumb, guchhi, kumbi",
+      "Tamil": "Kaalan, kaalaan",
+      "Telugu": "Puttagodugulu",
+      "Kannada": "Naaye Kode, anabi"
+   },
+   {
+      "English": "mustard greens, mustard leaves",
+      "Malayalam": "Kaduku ila",
+      "Hindi": "Sarasan patta, sarson ka saag",
+      "Tamil": "kadugu keerai",
+      "Telugu": "aava kura",
+      "Kannada": "sasive soppu"
+   },
+   {
+      "English": "Onion, Big Onion, onion",
+      "Malayalam": "Savola, Ulli",
+      "Hindi": "pyaaz, Pyaaj",
+      "Tamil": "Vengayam",
+      "Telugu": "ullipaya",
+      "Kannada": "neerulli, Eerulli"
+   },
+   {
+      "English": "peppermint leaves",
+      "Malayalam": "Pudina ila",
+      "Hindi": "pudina",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Plantain Flower",
+      "Malayalam": "Vaazhakoombu",
+      "Hindi": "",
+      "Tamil": "Vazhai poo",
+      "Telugu": "Aratti Poo",
+      "Kannada": "Balle hoovu"
+   },
+   {
+      "English": "Plantain Stem",
+      "Malayalam": "Unnipindi",
+      "Hindi": "",
+      "Tamil": "Vazhai Thandu",
+      "Telugu": "Arati dantu",
+      "Kannada": "Balle dindu"
+   },
+   {
+      "English": "Potato",
+      "Malayalam": "Urula kizhangu, Uralakizhangu",
+      "Hindi": "aloo, aloo, aloo, alu, Aalu",
+      "Tamil": "Urulai kizhangu, urulaikilangu, urulaikishangu,",
+      "Telugu": "Bangala dumpa, bangaladumpa, bangaaladumpa",
+      "Kannada": "Aaloo gadde, batate"
+   },
+   {
+      "English": "Pumpkin",
+      "Malayalam": "Mathanga",
+      "Hindi": "kaddu, Kaddu",
+      "Tamil": "Poosanikkai, parangikai",
+      "Telugu": "Gummadi kaayi, gummadikaya",
+      "Kannada": "Kumbalakai, kumbalkai (sarekai)"
+   },
+   {
+      "English": "radish pods",
+      "Malayalam": "",
+      "Hindi": "moongra, mogri",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "radish, daikon",
+      "Malayalam": "Mullanki",
+      "Hindi": "muli, mooli",
+      "Tamil": "Mullangi",
+      "Telugu": "Mullangi",
+      "Kannada": "Moolangi"
+   },
+   {
+      "English": "Raw Banana, raw plaintain, unripe raw banana, Plantain",
+      "Malayalam": "Vazha kai",
+      "Hindi": "kacha kela, kacha kela, kela",
+      "Tamil": "Vazhaikkai, balekai, valaikkai",
+      "Telugu": "Arati kaaya, aratikaya",
+      "Kannada": "Ballekayi, balekai"
+   },
+   {
+      "English": "Raw Mango",
+      "Malayalam": "Pacha manga",
+      "Hindi": "",
+      "Tamil": "Maangai",
+      "Telugu": "Maamidikaya",
+      "Kannada": "Maavin kaaye"
+   },
+   {
+      "English": "Red chilli",
+      "Malayalam": "Chuvanna Mulaku",
+      "Hindi": "Lal mirch, lal mirch",
+      "Tamil": "vara milagai",
+      "Telugu": "pandu mirapakaya",
+      "Kannada": "kempu menasinakai"
+   },
+   {
+      "English": "Ridge Gourd, Ridged gourd",
+      "Malayalam": "Peechinga, Peechinga",
+      "Hindi": "Turai, Tori",
+      "Tamil": "Peerkangai",
+      "Telugu": "Beerakaya",
+      "Kannada": "Hirekai"
+   },
+   {
+      "English": "Scallions, spring onions",
+      "Malayalam": "Eerulli kaavu",
+      "Hindi": "haraa pyaaza",
+      "Tamil": "Vengayathal",
+      "Telugu": "",
+      "Kannada": "Eerulli hoova"
+   },
+   {
+      "English": "Shallots, Pearl Onions",
+      "Malayalam": "Kunjulli",
+      "Hindi": "",
+      "Tamil": "Chinna Vengayam",
+      "Telugu": "",
+      "Kannada": "Sambar Eerulli"
+   },
+   {
+      "English": "Snake Gourd, pointed gourd",
+      "Malayalam": "Padavalanga, Padavalanga",
+      "Hindi": "parora, chichinda, Padwal, Chichinga",
+      "Tamil": "Pudalangai",
+      "Telugu": "Potlakaya, potlakay",
+      "Kannada": "Paddulkai, paddul kai"
+   },
+   {
+      "English": "Spinach",
+      "Malayalam": "Cheera",
+      "Hindi": "palak, Paalak",
+      "Tamil": "pasala keerai",
+      "Telugu": "palakura",
+      "Kannada": "palak, basale"
+   },
+   {
+      "English": "sweet potato, Kumara",
+      "Malayalam": "Mathura Kizhangu",
+      "Hindi": "shakarkandi, Shakkar Kandi",
+      "Tamil": "sakaravalli kilangu",
+      "Telugu": "chilakadadumpa",
+      "Kannada": "genasu"
+   },
+   {
+      "English": "Tamarind",
+      "Malayalam": "Puli",
+      "Hindi": "Imli",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Tapioca, cassava, Yuca",
+      "Malayalam": "Maracheeni, kappa",
+      "Hindi": "shimlaa aaloo",
+      "Tamil": "Maravalli kizhangu",
+      "Telugu": "Karapendalam",
+      "Kannada": ""
+   },
+   {
+      "English": "Tomato",
+      "Malayalam": "Thakkali",
+      "Hindi": "tamatar, tamatar, Tamaatar",
+      "Tamil": "Thakkali, thakkali",
+      "Telugu": "Rama mulakaya, rama mulaga kaya",
+      "Kannada": "kembhoota"
+   },
+   {
+      "English": "Turmeric",
+      "Malayalam": "Manjal",
+      "Hindi": "Haldi",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "turnip",
+      "Malayalam": "Madhura Mullanki, Tharkaari Kizhangu",
+      "Hindi": "shalgam, shalzam",
+      "Tamil": "nookol",
+      "Telugu": "knool khol",
+      "Kannada": "navalkhol"
+   },
+   {
+      "English": "Whole Green Gram",
+      "Malayalam": "Cheru Payru",
+      "Hindi": "",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "Yam, Yam, Taro",
+      "Malayalam": "Chenna, Chena",
+      "Hindi": "Jimikand",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   },
+   {
+      "English": "zucchini, courgette",
+      "Malayalam": "",
+      "Hindi": "",
+      "Tamil": "",
+      "Telugu": "",
+      "Kannada": ""
+   }
+]}
